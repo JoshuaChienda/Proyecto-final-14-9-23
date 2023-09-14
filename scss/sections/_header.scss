@@ -1,0 +1,22 @@
+.header__img {
+    height: 80px;
+    margin: 10px;
+}
+
+.header__nav {
+    text-transform: uppercase;
+    ul {
+    
+        padding: 20px;
+        list-style-type: none;
+        display: flex;
+        background-color: #f3f3b1;
+        align-items: center;
+        justify-content: space-evenly
+    }
+    a {
+       color: white;
+       text-decoration: none;
+    }
+
+}

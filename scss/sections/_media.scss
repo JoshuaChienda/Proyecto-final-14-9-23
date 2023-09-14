@@ -1,0 +1,29 @@
+@media (max-width: 412px){
+    .header__nav ul{
+        flex-direction: column;
+      }
+    .header__nav li{
+        padding: 2px;
+    }
+}
+
+@media (max-width: 412px){
+    .main2 {  
+        align-items: center
+      }
+}
+
+@media (max-width: 412px){
+    .main3__historia h1{  
+        display: flex;
+      }
+    .main3__escrito{
+        align-items: center;
+    }
+}
+
+@media (max-width: 412px){
+    .main4 img{  
+        width: 400px;
+      }
+}
